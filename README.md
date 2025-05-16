@@ -1,1 +1,1 @@
-# pruebaMinisterio
+# pruebaMinisterios
